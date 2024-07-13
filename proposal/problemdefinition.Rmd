@@ -10,4 +10,5 @@ It is important to cover:
  - [ ] Why it should be tackled
 -->
 
-
+The problem is that I don't know how to use git. 
+Give me money to fund a git workshop. 
